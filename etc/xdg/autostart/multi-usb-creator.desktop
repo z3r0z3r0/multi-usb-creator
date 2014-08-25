@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=multi-usb-creator
+Comment=No comment to make at this time.
+Icon=stock_lock
+Exec=multi-usb-creator
+Terminal=false
+Type=Application
+Categories=
+

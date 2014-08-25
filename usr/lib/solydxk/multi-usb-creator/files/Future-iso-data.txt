@@ -1,0 +1,10 @@
+id,name,version,url,bytes,md5sum
+solydk32,SolydK 32-bit,201407,http://downloads.solydxk.com/solydk32_latest.iso,1707081728,6f1b23d5cc51e7e88ab51adb62494e9d
+solydk64,SolydK 64-bit,201407,http://downloads.solydxk.com/solydk64_latest.iso,1790967808,8560f96def4a8bc0b53683d673042384
+solydx32,SolydX 32-bit,201407,http://downloads.solydxk.com/solydx32_latest.iso,1350565888,aabf4a5ee4132aadf412c119f46dac95
+solydx64,SolydX 64-bit,201407,http://downloads.solydxk.com/solydx64_latest.iso,1408237568,20e2675f23d9a6655a92fe7f92c15906
+solydkbo,SolydK BO 64-bit,201407,http://downloads.solydxk.com/solydkbo_latest.iso,1789919232,60e1f37a0c745fecb98322308d8bc40a
+solydkee32,SolydK EE 32-bit,201407,http://downloads.solydxk.com/solydkee32_latest.iso,1707081728,6f1b23d5cc51e7e88ab51adb62494e9d
+solydkee64,SolydK EE 64-bit ,201407,http://downloads.solydxk.com/solydkee64_latest.iso,1790967808,8560f96def4a8bc0b53683d673042384
+solydxee32,SolydX EE 32-bit,201407,http://downloads.solydxk.com/solydxee32_latest.iso,1350565888,aabf4a5ee4132aadf412c119f46dac95
+solydxee64,SolydX EE 64-bit,201407,http://downloads.solydxk.com/solydxee64_latest.iso,1408237568,20e2675f23d9a6655a92fe7f92c15906
